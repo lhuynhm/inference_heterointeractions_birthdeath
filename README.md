@@ -1,1 +1,1 @@
-Code for Erin Beckman, Heyrim Cho, Linh Huynh (alphabetically-ordered equal co-authors) 2024 "Inferring birth versus death dynamics for ecological interactions in stochastic heterogeneous populations"
+Code for Erin Beckman, Heyrim Cho, Linh Huynh (alphabetically-ordered equal co-authors) 2025 "Inferring birth versus death dynamics for ecological interactions in stochastic heterogeneous populations" ( https://link.springer.com/article/10.1007/s11538-025-01477-3)
